@@ -1,4 +1,4 @@
-<h1>Quiz App</h1> 
+<h1>Code History App</h1> 
 
 <h2>Esse é um aplicativo de Quiz, construído em SwiftUI. O usuário deve responder perguntas de múltipla escolha e no final é exibida uma pontuação com a porcentagem de respostas corretas. O app foi contruído para estudos e é simples, aqui demonstro o uso do SwiftUI e do padrão de arquitetura MVVM. O código do aplicativo pode ser usado como base para projetos mais complexos, adicionando mais recursos e funcionalidades.</h2>
 
